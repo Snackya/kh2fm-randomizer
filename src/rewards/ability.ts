@@ -128,6 +128,16 @@ export const abilityRewards = {
 		name: "Trinity Limit",
 		value: "00C6",
 	},
+	ONCE_MORE: {
+		type: RewardType.ABILITY,
+		name: "Once More",
+		value: "01A0",
+	},
+	SECOND_CHANCE: {
+		type: RewardType.ABILITY,
+		name: "Second Chance",
+		value: "019F",
+	},
 	// Donald
 	DONALD_FIRE: {
 		type: RewardType.ABILITY,
@@ -355,16 +365,6 @@ export const abilityRewards = {
 		type: RewardType.ABILITY,
 		name: "Damage Control",
 		value: "021E",
-	},
-	SECOND_CHANCE: {
-		type: RewardType.ABILITY,
-		name: "Second Chance",
-		value: "019F",
-	},
-	ONCE_MORE: {
-		type: RewardType.ABILITY,
-		name: "Once More",
-		value: "01A0",
 	},
 	NO_EXPERIENCE: {
 		type: RewardType.ABILITY,

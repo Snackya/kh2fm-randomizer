@@ -399,7 +399,7 @@ export const populate = (
 									? Object.values(growthAbilityRewards)
 									: [
 											...Object.values(growthAbilityRewards),
-											...Object.values(abilityRewards).slice(0, 25),
+											...Object.values(abilityRewards).slice(0, 27),
 									  ],
 						},
 					},
